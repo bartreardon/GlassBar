@@ -11,7 +11,7 @@ This may or may not work and is compiled for a beta OS using beta Xcode and not 
 
 ### How to use
 
-Download the DMG. Run the app. 
+Download the DMG from the [releases](https://github.com/bartreardon/GlassBar/releases) page. Open. Run the app. 
 
 To quit, use the status bar menu item 
 
