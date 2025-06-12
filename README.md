@@ -13,6 +13,12 @@ I made this for fun after the announcement that macOS 26 menu bar does not have 
 
 This may or may not work and is compiled for a beta OS using beta Xcode and not at all recommended as anything other than a curiosity and a toy for experimenting with code.
 
+### Features
+ 
+ - Adds a frosted glass effect underneath the macOS 26 menu bar
+ - Works across multiple screens
+ - Will auto adjust size depending on the display (i.e. external display vs internal with camera notch) 
+
 ### How to use
 
 Download the DMG from the [releases](https://github.com/bartreardon/GlassBar/releases) page. Open. Run the app. 
