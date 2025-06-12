@@ -5,6 +5,10 @@
 
 Add a frosted glass menu bar background to macOS 26.
 
+_Before and After:_
+<img width="1038" alt="Screenshot 2025-06-12 at 3 31 58 pm" src="https://github.com/user-attachments/assets/5ca5793f-1d16-4a3c-a491-5d0a03d83a52" />
+
+
 I made this for fun after the announcement that macOS 26 menu bar does not have any visible component other than menu text.
 
 This may or may not work and is compiled for a beta OS using beta Xcode and not at all recommended as anything other than a curiosity and a toy for experimenting with code.
