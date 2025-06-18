@@ -28,11 +28,11 @@ This may or may not work and is compiled for a beta OS using beta Xcode and not 
 
 ### Get it
 
-Download the DMG from the [releases](https://github.com/bartreardon/GlassBar/releases) page. Copy to your Applications folder and run. If you're keen, add to System Settings -> General -> Opent at Login 🙂
+Download the DMG from the [releases](https://github.com/bartreardon/GlassBar/releases) page. Copy to your Applications folder and run. If you're keen, add to "System Settings -> General -> Open at Login" 🙂
 
 ### Settings
 
-Click the status bar menu item
+Click the icon in the status bar:
 
 ![menubar arrow up rectangle](https://github.com/user-attachments/assets/a9d6d183-d6ef-4e45-9c87-15f1d669ab3f#gh-light-mode-only)
 ![menubar arrow up rectangle](https://github.com/user-attachments/assets/b22c83e1-1284-4861-ac6c-d67ed914ea1c#gh-dark-mode-only)
