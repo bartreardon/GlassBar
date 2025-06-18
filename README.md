@@ -15,26 +15,39 @@ This may or may not work and is compiled for a beta OS using beta Xcode and not 
 
 ### Features
  
- - Adds a frosted glass effect underneath the macOS 26 menu bar
- - Make the menu bar pretty colours
+ - Add a frosted glass effect where the macOS 26 menu bar currently has none
+ - Optional, custom colour, two colour gradient or ${\color{red}R\color{orange}A\color{yellow}I\color{green}N\color{blue}B\color{purple}O\color{violet}W}$ 🏳️‍🌈
+    <img width="600" alt="Rainbow Bar" src="https://github.com/user-attachments/assets/e0c13054-18ca-4a55-91a1-5953e422a844" />
  - Works across multiple screens
  - Will auto adjust size depending on the display (i.e. external display vs internal with camera notch) 
 
-🌈 ${\color{red}R\color{yellow}A\color{pink}I\color{green}N\color{purple}B\color{orange}O\color{blue}W}$ 
+🔐 GlassBar is signed and notarized
 
-<img src="https://github.com/user-attachments/assets/66e2ac82-3bce-4fc2-9883-8086787180b7" width=600>
+<!-- <img src="https://github.com/user-attachments/assets/66e2ac82-3bce-4fc2-9883-8086787180b7" width=600> -->
 
 
-### How to use
+### Get it
 
-GlassBar is signed and notarized. Download the DMG from the [releases](https://github.com/bartreardon/GlassBar/releases) page. Open. Run the app. 
+Download the DMG from the [releases](https://github.com/bartreardon/GlassBar/releases) page. Copy to your Applications folder and run. If you're keen, add to System Settings -> General -> Opent at Login 🙂
 
-To quit, use the status bar menu item 
+### Settings
+
+Click the status bar menu item
 
 ![menubar arrow up rectangle](https://github.com/user-attachments/assets/a9d6d183-d6ef-4e45-9c87-15f1d669ab3f#gh-light-mode-only)
 ![menubar arrow up rectangle](https://github.com/user-attachments/assets/b22c83e1-1284-4861-ac6c-d67ed914ea1c#gh-dark-mode-only)
 
+You can adjust the following:
+ - Opacity - How transparant the bar appears
+ - Style - Pick from Clear, Rainbow, Colour or Gradient
+ - Colour 1 - Used in the Colour style
+ - Colour 2 - Used as the second colour in the Gradient style 
 
+<img width="300" alt="Settings" src="https://github.com/user-attachments/assets/01bfb8f5-af89-490f-82f2-cad1a2632998">
+
+Select "Quit" to exit.
+
+## Other Stuff
 
 #### Warranty
 
@@ -48,5 +61,7 @@ None
 
 Probably 🙂 
 
+#### Anything else?
 
+[By all means, ask](https://github.com/bartreardon/GlassBar/issues/new/choose)
 
